@@ -16,5 +16,5 @@ Im learning to Develop Discord Bots and other Stuff
 
 ## 🌐 Contact me
 
-**Discord:** vito.xyz
+[![Contact Me (1125062044463411211)](https://img.shields.io/badge/My-Discord-%235865F2.svg)](https://discord.com/users/1125062044463411211)
 </div>
