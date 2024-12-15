@@ -15,6 +15,5 @@ Im learning to Develop Discord Bots and other Stuff
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" alt="Linux">
 
 ## 🌐 Contact me
-[![Discord Presence](https://lanyard.cnrad.dev/api/1125062044463411211)](https://discord.com/users/1125062044463411211)
 [![Contact Me (1125062044463411211)](https://img.shields.io/badge/My-Discord-%235865F2.svg)](https://discord.com/users/1125062044463411211)
 </div>
